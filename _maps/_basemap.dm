@@ -24,6 +24,9 @@
 		#include "map_files\moonstation\moonstation.dmm"
 		#include "map_files\BoxStation\BoxStation.dmm"
 		// BUBBER EDIT ADDITION END
+		// EffigyEdit Add - Maps
+		#include "effigy\map_files\FoxHoleStation\foxholestation.dmm"
+		// EffigyEdit Add End
 
 		#ifdef CIBUILDING
 			#include "templates.dm"
