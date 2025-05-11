@@ -5855,7 +5855,7 @@
 /turf/open/floor/carpet/neon/simple/black,
 /area/station/commons/fitness/recreation/entertainment)
 "ddT" = (
-/obj/item/toy/plush/effigy/mechanic_fox,
+/obj/item/toy/plush/skyrat/mechanic_fox,
 /obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/centcom/asteroid/nearstation)
@@ -31360,7 +31360,7 @@
 /turf/open/floor/catwalk_floor/iron,
 /area/station/hallway/primary/fore)
 "qYX" = (
-/obj/item/toy/plush/effigy/blue_cat{
+/obj/item/toy/plush/skyrat/blue_cat{
 	name = "blue flag";
 	desc = "Probably more conveinent to carry than a real flag."
 	},
@@ -43245,7 +43245,7 @@
 /obj/effect/turf_decal/trimline/white/filled/warning{
 	dir = 8
 	},
-/obj/machinery/cryopod/no_latejoin{
+/obj/machinery/cryopod{
 	dir = 4
 	},
 /turf/open/floor/iron/dark/smooth_edge{
