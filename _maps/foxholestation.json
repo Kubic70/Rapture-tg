@@ -6,7 +6,7 @@
     "shuttles": {
 		"cargo": "cargo_foxhole",
 		"ferry": "ferry_kilo",
-		"whiteship": "whiteship_birdshot",
+		"whiteship": "whiteship_foxhole",
 		"emergency": "emergency_foxhole"
     },
 	"traits": [
