@@ -94,3 +94,9 @@ map kilostation
 	maxplayers 75
 	votable
 endmap
+
+##EFFIGY MAPS##
+
+map foxholestation
+	votable
+endmap
