@@ -10317,6 +10317,7 @@
 	},
 /obj/machinery/firealarm/directional/east,
 /obj/item/paper_bin,
+/obj/item/pen/fourcolor,
 /turf/open/floor/carpet/purple,
 /area/station/service/library/private)
 "fuM" = (
@@ -15778,6 +15779,7 @@
 /obj/item/stock_parts/power_store/cell/high,
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/west,
+/obj/item/stack/sheet/mineral/plasma/thirty,
 /turf/open/floor/iron/dark/diagonal,
 /area/station/engineering/storage)
 "iuz" = (
@@ -43384,6 +43386,7 @@
 /obj/machinery/door/firedoor,
 /obj/structure/table/wood,
 /obj/item/paper_bin,
+/obj/item/pen/blue,
 /turf/open/floor/wood/large,
 /area/station/service/library/private)
 "wYy" = (
