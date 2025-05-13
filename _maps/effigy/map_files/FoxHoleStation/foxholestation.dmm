@@ -23349,7 +23349,7 @@
 "mBV" = (
 /obj/effect/turf_decal/tile/bar/diagonal_edge,
 /obj/effect/turf_decal/tile/dark_red/diagonal_centre,
-/obj/machinery/jukebox,
+/obj/machinery/jukebox/no_access,
 /turf/open/floor/iron/dark/diagonal,
 /area/station/service/cafeteria)
 "mBZ" = (
